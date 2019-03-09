@@ -23,7 +23,7 @@ Material:
     - _DistortionPower: 0.5
     - _NormalScale: 1
     - _Shininess: 0.87
-    - _SpecularPower: 0
+    - _SpecularPower: 0.25
     m_Colors:
     - _NoiseSizeScroll: {r: 16, g: 16, b: 0, a: -1}
     - _NoiseTilingOffset: {r: 1, g: 0.5, b: 0, a: 0}
